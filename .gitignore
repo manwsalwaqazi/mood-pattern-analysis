@@ -1,0 +1,12 @@
+# Ignore local datasets if needed
+*.csv
+
+# Python cache
+__pycache__/
+
+# Jupyter / IDE files
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
