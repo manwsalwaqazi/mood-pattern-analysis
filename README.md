@@ -59,25 +59,27 @@ This encoding enabled numerical and statistical analysis.
 ## Analysis & Visualizations
 The following visualizations were created:
 
-- Mood frequency distribution (bar chart)
+- **Mood frequency distribution (bar chart)**
   <img width="764" height="519" alt="image" src="https://github.com/user-attachments/assets/271ca48b-4560-48fc-8f1a-fe59e1b6c6b3" />
 
-- Sleep hours distribution (histogram)
+- **Sleep hours distribution (histogram)**
   <img width="826" height="563" alt="image" src="https://github.com/user-attachments/assets/197415b2-d727-4e54-8520-b8095ff5f024" />
 
-- Activity distribution (pie chart)
+- **Activity distribution (pie chart)**
+  
   <img width="579" height="496" alt="image" src="https://github.com/user-attachments/assets/20025600-a7d5-4874-8819-878c74d44d09" />
 
-- Sleep hours vs mood (scatter plot)
+- **Sleep hours vs mood (scatter plot)**
+  
   <img width="704" height="415" alt="image" src="https://github.com/user-attachments/assets/61191bc8-40d8-458f-9122-5ebbb219f018" />
 
-- Activity distribution across moods (stacked bar chart)
+- **Activity distribution across moods (stacked bar chart)**
   <img width="833" height="415" alt="image" src="https://github.com/user-attachments/assets/c7755aa6-0bf2-48cb-8de9-63f1ebecdb88" />
 
-- Sleep hours vs mood (boxplot)
+- **Sleep hours vs mood (boxplot)**
   <img width="935" height="451" alt="image" src="https://github.com/user-attachments/assets/cf8d1d07-7e2f-42b8-9fc0-4842945694b5" />
 
-- Combined mood frequency and average sleep comparison (bar chart)
+- **Combined mood frequency and average sleep comparison (bar chart**
   <img width="910" height="515" alt="image" src="https://github.com/user-attachments/assets/215d8051-de38-45b8-b075-b332288a73eb" />
 
 
